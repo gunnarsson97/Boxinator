@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "mysql-connector-java-8.0.24/**/*.jar",
+        "C:\\Users\\emilg\\Desktop\\rest-api\\rest-api\\mysql-connector-java-8.0.24\\mysql-connector-java-8.0.24.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
