@@ -1,5 +1,7 @@
 # Boxinator
-
+Code test for Fortnox. 
+The application follows the pdf instructions.
+# Setup
 1. First setup database by creating schema called "boxinator" in mysql workbench or simular. 
 Run the "boxData.sql" to replicate my database. (password: root, username:root, if using other username and password you need to chang ethe password in the java controller class(line 38)) 
 It should have a table called tblbox and columns: name, weight, color, country
